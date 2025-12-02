@@ -114,16 +114,16 @@ export default function Hero({prompt}) {
             <div className={`${styles["hero-upper"]} hero-upper` } id='hero-upper' 
             style={ {filter: 'url(#threshold)'} }
             >
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text1">RAGAM</span>
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text2">രാഗം</span>
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text3">ராகம்</span>
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text4">रागम</span>
-                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text5">రాగం</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text1">HIKMA</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text2">ഹിക്മ</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text3">हिक्मा</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text4">حِكْمَة</span>
+                <span className={`${styles["hero-t"]} ${styles["text-zero-opacity"]} hero-t ${styles["hero-anim"]}`} id="text5">ஹிக்மா</span>
                 
 
             </div>
             <div className={`${styles["hero-lower"]} hero-lower`}>
-                <span className={`${styles["hero-t"]} hero-t ${styles["year-anim"]}`}>2023</span>
+                <span className={`${styles["hero-t"]} hero-t ${styles["year-anim"]}`}>2025</span>
             </div>
         </div>
         <div className={styles['typewriter-container']} >
