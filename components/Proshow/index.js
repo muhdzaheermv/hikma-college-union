@@ -4,21 +4,21 @@ import ProshowCard from './proshowCard'
 
 const artists = [
     {
-        name: 'Onam',
-        date: 'Sep.',
-        img: 'images/sisters.jpg',
+        name: 'Victory Day',
+        date: 'Oct',
+        img: 'images/First.jpeg',
         div_id: 'neetimohan'
     },
     {
-        name: 'Foam Party',
-        date: 'Oct.',
-        img: 'images/Jubin-Nautiyal-compressed.jpg',
+        name: 'Freshers Day',
+        date: 'Nov',
+        img: 'images/Second.jpeg',
         div_id: 'jubin'
     },
     {
-        name: 'Freshers day',
-        date: 'Nov.',
-        img: 'images/Amit-Trivedi-compressed.jpg',
+        name: 'Christmas 2025',
+        date: 'Dec',
+        img: 'images/Third.jpeg',
         div_id: 'amittrivedi'
     }
 ]
@@ -36,12 +36,12 @@ function Proshow(){
                         alt={'Proshow'}
                         />
                     </li>
-                    <li >Hikma</li>
+                    <li >ആസ്പയർ</li>
                     <li >Aspire</li>
                 </ul>
 
                 <ul className={`${styles['marquee-content']} marquee-proshow`} aria-hidden="true">
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li className={styles.stroke}>Aspire</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -49,14 +49,14 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li>AMIT TRIVEDI</li>
-                    <li >NEETI MOHAN</li>
+                    <li>ആസ്പയർ</li>
+                    <li>Aspire</li>
                 </ul>
             </div>
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li>AMIT TRIVEDI</li>
-                    <li className={styles.stroke}>NEETI MOHAN</li>
+                    <li>Hikma</li>
+                    <li className={styles.stroke}>Hikma</li>
                     <li><Image 
                         src={'/images/assets/union2.svg'}
                         alt={'Proshow'}
@@ -64,7 +64,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li className={styles.stroke}>ഹിക്മ</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -75,8 +75,8 @@ function Proshow(){
                 </ul>
 
                 <ul className={styles['marquee-content']} aria-hidden="true">
-                    <li>AMIT TRIVEDI</li>
-                    <li className={styles.stroke}>NEETI MOHAN</li>
+                    <li>Hikma</li>
+                    <li className={styles.stroke}>hikma</li>
                     <li><Image 
                         src={'/images/assets/union2.svg'}
                         alt={'Proshow'}
@@ -84,7 +84,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li className={styles.stroke}>ഹിക്മ</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         alt={'Proshow'}
@@ -97,8 +97,8 @@ function Proshow(){
 
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li >AMIT TRIVEDI</li>
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li >sarghodaya</li>
+                    <li className={styles.stroke}>sarghodaya</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -106,12 +106,12 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li >NEETI MOHAN</li>
+                    <li >സർഘോദയ</li>
                 </ul>
 
                 <ul className={styles['marquee-content']} aria-hidden="true">
-                    <li>AMIT TRIVEDI</li>
-                    <li className={styles.stroke}>JUBIN NAUTIYAL</li>
+                    <li>hikma</li>
+                    <li className={styles.stroke}>sarghodaya</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -119,7 +119,7 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li >NEETI MOHAN</li>
+                    <li >സർഘോദയ</li>
                 </ul>
             </div>
             

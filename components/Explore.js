@@ -32,8 +32,8 @@ export default function Explore() {
             link: "/workshops",
         },
         {
-            title: "Ragnarok",
-            img: "/images/ragnarok.jpg",
+            title: "NSS",
+            img: "/images/nss.jpg",
             link: "/events?category=Ragnarok",
             
         },
@@ -263,9 +263,9 @@ export default function Explore() {
                         </button>
                     {/* </div> */}
                 <div className={`${styles['explore-t']} `}>
-                    <span><em>DIVE</em>&nbsp;</span>
+                    <span><em>Our Clubs</em>&nbsp;</span>
                     <span className={`${styles['explore-t-strk']} `}>
-                        IN
+                        {/* IN */}
                     </span>
                 </div>
                 <div className={`${styles['carousel']}`} id="carousel">

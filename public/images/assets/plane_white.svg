@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 933" width="1400" height="933">
+  <!-- Transparent background -->
+  <rect width="100%" height="100%" fill="transparent"/>
+  <!-- Main lower wing -->
+  <polygon points="220,680 1180,160 1260,170 300,720" fill="#ffffff"/>
+  <!-- Upper wing (slightly offset to simulate fold) -->
+  <polygon points="300,640 1250,140 1310,150 360,700" fill="#ffffff" opacity="0.98"/>
+  <!-- Central body / slit -->
+  <polygon points="360,700 820,380 1220,160 1180,160 700,440 420,720" fill="#ffffff" opacity="0.995"/>
+  <!-- Nose / folded tip -->
+  <polygon points="300,720 360,480 420,720" fill="#ffffff"/>
+</svg>
