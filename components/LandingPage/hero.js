@@ -123,7 +123,7 @@ export default function Hero({prompt}) {
 
             </div>
             <div className={`${styles["hero-lower"]} hero-lower`}>
-                <span className={`${styles["hero-t"]} hero-t ${styles["year-anim"]}`}>2025</span>
+                <span className={`${styles["hero-t"]} hero-t ${styles["year-anim"]}`}>Union</span>
             </div>
         </div>
         <div className={styles['typewriter-container']} >
