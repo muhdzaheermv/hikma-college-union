@@ -22,6 +22,16 @@ export default function Explore() {
 
     const data = [
         {
+            title: "Arts",
+            img: "/images/prodezza.jpg",
+            link: "/prodezza",
+        },
+        {
+            title: "Sports",
+            img: "/images/sports.png",
+            link: "/events?category=Sports",
+        },
+        {
             title: "Events",
             img: "/images/events.png",
             link: "/events",
@@ -37,21 +47,13 @@ export default function Explore() {
             link: "/ink",
             
         },
-        {
-            title: "I-ink",
-            img: "/images/iink.jpg",
-            link: "/ink",
-        },
-        {
-            title: "Sports",
-            img: "/images/sports.png",
-            link: "/events?category=Sports",
-        },
-        {
-            title: "Arts",
-            img: "/images/prodezza.jpg",
-            link: "/prodezza",
-        },
+        // {
+        //     title: "I-ink",
+        //     img: "/images/iink.jpg",
+        //     link: "/ink",
+        // },
+        
+        
         {
             title: "Proshow",
             img: "/images/proshow.jpg",
