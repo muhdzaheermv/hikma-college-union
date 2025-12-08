@@ -23,7 +23,7 @@ export default function Explore() {
     const data = [
         {
             title: "Events",
-            img: "/images/events.jpg",
+            img: "/images/events.png",
             link: "/events",
         },
         // {
