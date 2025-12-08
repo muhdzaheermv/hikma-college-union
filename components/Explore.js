@@ -24,12 +24,12 @@ export default function Explore() {
         {
             title: "Arts",
             img: "/images/prodezza.jpg",
-            link: "/prodezza",
+            // link: "/prodezza",
         },
         {
             title: "Sports",
             img: "/images/sports.png",
-            link: "/events?category=Sports",
+            // link: "/events?category=Sports",
         },
         {
             title: "Events",
@@ -57,7 +57,7 @@ export default function Explore() {
         {
             title: "Proshow",
             img: "/images/proshow.jpg",
-            link: "/proshow",
+            // link: "/proshow",
         },
     ]
 
