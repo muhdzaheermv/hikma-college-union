@@ -2,6 +2,10 @@ import Coming from '@/components/Coming'
 import Head from 'next/head'
 
 
+
+
+
+
 export default function Iink({ }) {
     return (
         <>
