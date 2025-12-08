@@ -13,7 +13,7 @@ const Footer = () => {
     // { logo: Facebook, link: "https://www.facebook.com/Ragam.nitc/" },
   ];
 
-  const email = "Muhammed zaheer mv";
+  const email = "";
 
   const links = [
     [
