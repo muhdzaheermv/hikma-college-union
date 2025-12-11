@@ -23,7 +23,7 @@ export default function Explore() {
     const data = [
         {
             title: "Arts",
-            img: "/images/prodezza.jpg",
+            img: "/images/prodezza.png",
             // link: "/prodezza",
         },
         {
