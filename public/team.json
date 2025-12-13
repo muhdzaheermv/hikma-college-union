@@ -9,9 +9,9 @@
                     {"name": "Fidha Sherin", "designation": "Vice Chairperson", "img": "/images/team/resized/Chairperson.jpg"},
                     {"name": "", "designation": "Joint Secretary ", "img": "/images/team/resized/"},
                     {"name": "", "designation": "Fine Arts Secretary ", "img": "/images/team/resized/"},
-                    {"name": "Muhammed Ajmal ck", "designation": "General Captain ", "img": "/images/team/resized/GeneralCaptain.JPEG"},
-                    {"name": "Magazine Editor", "designation": "Magazine Editor ", "img": "/images/team/resized/MagazineEditor.JPEG"},
-                    {"name": "Mohammad Mubashir T ", "designation": "UUC ", "img": "/images/team/resized/UUC.JPEG"},
+                    {"name": "Muhammed Ajmal ck", "designation": "General Captain ", "img": "/images/team/resized/GeneralCaptain.jpeg"},
+                    {"name": "Magazine Editor", "designation": "Magazine Editor ", "img": "/images/team/resized/MagazineEditor.jpeg"},
+                    {"name": "Mohammad Mubashir T ", "designation": "UUC ", "img": "/images/team/resized/UUC.jpeg"},
                     {"name": "", "designation": "First DC ", "img": "/images/team/resized/"},
                     {"name": "", "designation": "Second DC ", "img": "/images/team/resized/SecondDC.jpg"},
                     {"name": "", "designation": "Third DC  ", "img": "/images/team/resized/"}
@@ -35,7 +35,7 @@
         "teams": [{
             "label": "Leads",
             "members": [
-                {"name": "Muhammed Zaheer mv", "designation": "Lead Developer", "img": "/images/team/resized/zaheer.JPEG"}
+                {"name": "Muhammed Zaheer mv", "designation": "Lead Developer", "img": "/images/team/resized/zaheer.jpeg"}
             ]
         }]
     }
