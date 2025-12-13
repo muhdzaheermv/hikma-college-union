@@ -3,12 +3,13 @@ import GetInTouch from "./GetInTouch";
 import Socials from "./Socials";
 import Links from "./Links";
 import Instagram from "@/public/images/socials/Vector.svg";
-import Facebook from "@/public/images/socials/Vector(2).svg";
+import Nss from "@/public/images/socials/nss.png";
 import Linkedin from "@/public/images/socials/Vector(3).svg";
 
 const Footer = () => {
   const socials = [
-    { logo: Instagram, link: "https://www.instagram.com" },
+    { logo: Instagram, link: "https://www.instagram.com/hikma_college_union?igsh=MTEwNG5yZ3E5dDNybw==" },
+    { logo: Nss, link: "https://www.instagram.com/nssaspire_official?igsh=MWVpYW11YzdnOTB2dw==" },
     // { logo: Linkedin, link: "#" },
     // { logo: Facebook, link: "https://www.facebook.com/Ragam.nitc/" },
   ];
@@ -17,18 +18,19 @@ const Footer = () => {
 
   const links = [
     [
-      // { name: "Home", link: "/" },
-      // { name: "Team", link: "/team" },
+      { name: "Home", link: "/" },
+      { name: "Arts", link: "/prodezza" },
+      { name: "Sports", link: "/sports" },
+      { name: "Members", link: "/team" },
       // { name: "Sponsors", link: "/sponsors" },
     ],
     [
-      // { name: "Certificates", link: "https://certificates23.ragam.co.in" },
-      // { name: "Events", link: "/events" },
-      // { name: "Workshops", link: "/workshops" },
-      // { name: "Sports", link: "/events?category=Sports" },
+      { name: "Events", link: "/events" },
+      { name: "NSS", link: "/ink" },
+      { name: "Programs", link: "/programs" },
     ],
     [
-      // { name: "Ragnarok", link: "/events?category=Ragnarok" },
+      // { name: "nss instagram", link: "/events?category=Ragnarok" },
       // { name: "Proshow", link: "/proshow" },
       // // { name: "I-ink", link: "/ink" },
       // { name: "Prodezza", link: "/prodezza" },
