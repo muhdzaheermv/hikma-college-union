@@ -29,7 +29,7 @@ export default function Explore() {
         {
             title: "Sports",
             img: "/images/sports.png",
-            // link: "/events?category=Sports",
+            link: "/sports",
         },
         {
             title: "Events",
@@ -55,9 +55,9 @@ export default function Explore() {
         
         
         {
-            title: "Proshow",
+            title: "Programs",
             img: "/images/proshow.png",
-            // link: "/proshow",
+            link: "/programs",
         },
     ]
 

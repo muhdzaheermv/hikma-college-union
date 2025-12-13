@@ -38,7 +38,7 @@ export default function Coming(){
     return(
          <div className={styles.container}>
                 <div className={styles.banner}>
-                    <h2 className={styles.title}>Hikma Union<br />Events</h2>
+                    <h2 className={styles.title}>National<br />Service Scheme</h2>
                 </div>
 
                 <div className={styles['cards-container']}>
