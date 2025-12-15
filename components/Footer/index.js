@@ -2,14 +2,15 @@ import styles from "../../styles/Footer.module.css";
 import GetInTouch from "./GetInTouch";
 import Socials from "./Socials";
 import Links from "./Links";
-import Instagram from "@/public/images/socials/Vector.svg";
-import Nss from "@/public/images/socials/nss.png";
-import Linkedin from "@/public/images/socials/Vector(3).svg";
+import nss from "@/public/images/socials/nss.png";
+import plane from "@/public/images/socials/plane.png";
+import hikma from "@/public/images/socials/hikma.png";
 
 const Footer = () => {
   const socials = [
-    { logo: Instagram, link: "https://www.instagram.com/hikma_college_union?igsh=MTEwNG5yZ3E5dDNybw==" },
-    { logo: Nss, link: "https://www.instagram.com/nssaspire_official?igsh=MWVpYW11YzdnOTB2dw==" },
+    { logo: plane, link: "https://www.instagram.com/aspire_college_thrithala?igsh=Mzc0Mnc5OG1pMWpl" },
+    { logo: hikma, link: "https://www.instagram.com/hikma_college_union?igsh=MTEwNG5yZ3E5dDNybw==" },
+    { logo: nss, link: "https://www.instagram.com/nssaspire_official?igsh=MWVpYW11YzdnOTB2dw==" },
     // { logo: Linkedin, link: "#" },
     // { logo: Facebook, link: "https://www.facebook.com/Ragam.nitc/" },
   ];
