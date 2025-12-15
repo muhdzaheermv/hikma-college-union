@@ -4,11 +4,19 @@ import Head from 'next/head'
 
 const artists = [
     {
+        name: 'ASPIRO Sports Meet 25 – Day 2 Volleyball',
+        date: '16 December 2025',
+        day: 'Tuesday',
+        img: '/images/sports_meet.png',
+        // id: "dabzee",
+        content: 'Feel the thrill at ASPIRO Sports Meet 25! Day 2 brings an action-packed Volleyball Tournament on 16 Dec, 2:00 PM at Aspire College Court. Elevate the game and honor the spirit of sport!'
+    },
+    {
         name: 'Volleyball',
         // date: '16 December',
         // day: 'Monday',
         img: '/images/volleyball.jpeg',
-        id: "dabzee",
+        // id: "dabzee",
         content: 'The Hikma College Union’s Aspire Volleyball Team proudly achieved Calicut University C-Zone Volleyball Second Runner-Up. This success reflects the team’s dedication, discipline, and sportsmanship, bringing pride to the college and inspiring future athletes.'
     },
     {
@@ -16,7 +24,7 @@ const artists = [
         // date: '16 December',
         // day: 'Monday',
         img: '/images/cricket.jpeg',
-        id: "dabzee",
+        // id: "dabzee",
         content: 'The Aspire College Cricket Team is a united group of passionate and disciplined players including Adarsh, Mishab, Yadhu, Uwais, Athul, Shyam, Shafi, Shahdab, Sreedev, Sudhev, Vidhul, Sajad, and Shibin, striving for excellence, teamwork, and sportsmanship on and off the field.'
     },
     {
