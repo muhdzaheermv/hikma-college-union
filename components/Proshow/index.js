@@ -7,19 +7,22 @@ const artists = [
         name: 'Victory Day',
         date: 'Oct',
         img: 'images/First.jpeg',
-        div_id: 'neetimohan'
+        // div_id: 'neetimohan',
+        link: '/events'
     },
     {
         name: 'Freshers Day',
         date: 'Nov',
         img: 'images/Second.jpeg',
-        div_id: 'jubin'
+        // div_id: 'jubin',
+        link: '/programs'
     },
     {
         name: 'Christmas 2025',
         date: 'Dec',
         img: 'images/Third.jpeg',
-        div_id: 'amittrivedi'
+        // div_id: 'amittrivedi',
+        link: '/programs'
     }
 ]
 
@@ -127,12 +130,12 @@ function Proshow(){
                 <div className={styles['web-cards']}>
                     {artists.map((artist,key)=> {
                         return(
-                            <ProshowCard title={artist.name} key={key} id={artist.div_id} date={artist.date} bg={artist.img} />
+                            <ProshowCard title={artist.name} key={key} id={artist.div_id} link={artist.link} date={artist.date} bg={artist.img} />
                         )
                 })}
                 </div>
                 <div className={styles['mob-card']}>
-                    <ProshowCard title={artists[1].name} date={artists[1].date} id={artists[1].div_id} bg={artists[1].img} />
+                    <ProshowCard title={artists[1].name} date={artists[1].date} link={artists[1].link} id={artists[1].div_id} bg={artists[1].img} />
                 </div>
                 {/* <ProshowCard />
                 <ProshowCard title={"Ankit"}/>

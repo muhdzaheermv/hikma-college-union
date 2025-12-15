@@ -8,14 +8,14 @@ const Menu = ({setShowMenu}) => {
   const router = useRouter()
   const lists = [
     { title: "Home", link: "/" },
-    // { title: "Schedule", link: "/schedule" },
-    { title: "Arts Registration", link: "" },
-    // { title: "Workshops", link: "/workshops" },
+    // { title: "Events", link: "/events" },
+    // { title: "Arts", link: "/arts" },
+    // { title: "Sports", link: "/sports" },
+    { title: "Our Members", link: "/team" },
     // { title: "Events", link: "/events" },
     // { title: "Proshows", link: "/proshow" },
     // { title: "I-ink", link: "/ink" },
     // { title: "Prodezza", link: "/prodezza" },
-    { title: "Our Members", link: "/team" },
     // { title: "Sponsors", link: "/sponsors" },
 
     

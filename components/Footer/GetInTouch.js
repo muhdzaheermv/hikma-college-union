@@ -5,7 +5,7 @@ const GetInTouch = ({email}) => {
     <a  href='https://www.instagram.com/zaheermv/'    className={`${styles.getInTouchContainer}`}>
         <div    className={`${styles.transition}    ${styles.overlay}`}></div>
         <div    className={`${styles.getInTouch}`}>Developed by</div>
-        <div    className={`${styles.email}`}>{email}</div>
+        <div    className={`${styles.email}`}>zaheermv{email}</div>
     </a>
   )
 }

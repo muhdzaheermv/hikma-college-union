@@ -9,7 +9,7 @@ const artists = [
         // day: 'Monday',
         img: '/images/volleyball.jpeg',
         id: "dabzee",
-        content: 'Aspire College Volleyball Team stands united with skill, discipline, and passion. Through hard training and teamwork, they rise on every court, representing the college with pride, sportsmanship, and an unbreakable fighting spirit.!'
+        content: 'The Hikma College Union’s Aspire Volleyball Team proudly achieved Calicut University C-Zone Volleyball Second Runner-Up. This success reflects the team’s dedication, discipline, and sportsmanship, bringing pride to the college and inspiring future athletes.'
     },
     {
         name: 'Cricket',
@@ -17,7 +17,7 @@ const artists = [
         // day: 'Monday',
         img: '/images/cricket.jpeg',
         id: "dabzee",
-        content: 'Aspire College Cricket Team plays with strategy, discipline, and determination, while the Football Team shines with speed, skill, and unity. Together they represent the college with pride, teamwork, and an unbreakable fighting spirit.'
+        content: 'The Aspire College Cricket Team is a united group of passionate and disciplined players including Adarsh, Mishab, Yadhu, Uwais, Athul, Shyam, Shafi, Shahdab, Sreedev, Sudhev, Vidhul, Sajad, and Shibin, striving for excellence, teamwork, and sportsmanship on and off the field.'
     },
     {
         name: 'Football',
@@ -25,7 +25,7 @@ const artists = [
         // day: 'Monday',
         img: '/images/football.jpeg',
         id: "dabzee",
-        content: 'Aspire College Football Team plays with speed, skill, and unity. Driven by passion and teamwork, they fight for every goal, inspire supporters, and proudly represent the college spirit on every match day. Together we play to win now'
+        content: 'The Aspire College Football Team features a strong and dedicated squad including Muhammed Ajmal CK, Minhaj, Manzoor, Razik, Fayis, Anzil, Rinshad, Shibili, Anfas, Shefin, Shahil, Sinan, Adithiyan, Fahas, Ajmal CK, Rohit, Asif, Muzammil, Farhan, Rishad, and Nissam, guided by Coach Anjana, united by teamwork, discipline, and passion for the game.'
     },
   
 

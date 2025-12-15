@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 
-export default function ProshowCard({ title, date, bg , id}) {
+export default function ProshowCard({ title, date, bg , id,link}) {
 
   const router = useRouter();
   // useEffect(() => {
@@ -18,7 +18,7 @@ export default function ProshowCard({ title, date, bg , id}) {
   function buttonClicked(id) {
     router.events.emit("routeChangeStart",  "withDelay");
                     setTimeout(() => {
-                        router.push("/proshow"+"#"+id);
+                        router.push(link);
                       }, 1000);
     // console.log("/proshow"+"#"+id)
                       // router.push("/proshow"+"#"+id);
