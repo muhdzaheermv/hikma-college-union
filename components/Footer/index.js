@@ -22,15 +22,15 @@ const Footer = () => {
       { name: "Home", link: "/" },
       { name: "Arts", link: "/prodezza" },
       { name: "Sports", link: "/sports" },
-      { name: "Members", link: "/team" },
       // { name: "Sponsors", link: "/sponsors" },
     ],
     [
-      { name: "Events", link: "/events" },
-      { name: "NSS", link: "/ink" },
       { name: "Programs", link: "/programs" },
+      { name: "Events", link: "/events" },
     ],
     [
+      { name: "NSS", link: "/ink" },
+      { name: "Members", link: "/team" },
       // { name: "nss instagram", link: "/events?category=Ragnarok" },
       // { name: "Proshow", link: "/proshow" },
       // // { name: "I-ink", link: "/ink" },
