@@ -8,7 +8,7 @@ import Hero from './hero';
 import elephant from "@/public/images/elephant.png"
 import femaledancer from "@/public/images/femaledancer.png"
 // import ghoomar from "@/public/images/ghoomar.jpeg"
-import knight from "@/public/images/knight.png"
+// import knight from "@/public/images/knight.png"
 // import main from "@/public/images/main.jpeg"
 import mountainman from "@/public/images/mountainman.png"
 // import theyyam_1 from "@/public/images/theyyam 1.jpeg"
@@ -36,7 +36,7 @@ const getImages = () => {
         { file: elephant, prompt: 'Aspire College of Advanced Studies' },
         // { file: femaledancer, prompt: 'Aspire College of Advanced Studies  ' },
         // { file: ghoomar, prompt: 'Aspire College of Advanced Studies ' },
-        { file: knight, prompt: 'Aspire College of Advanced Studies' },
+        // { file: knight, prompt: 'Aspire College of Advanced Studies' },
         // { file: main, prompt: 'Aspire College of Advanced Studies ' },
         { file: mountainman, prompt: ' Aspire College of Advanced Studies' },
         // { file: '/mountaindance.png', prompt: 'three indian traditional women dancing in a field' },
