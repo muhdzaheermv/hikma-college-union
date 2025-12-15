@@ -44,7 +44,7 @@ export default function Team({data}) {
                             <div className={styles.members}>
                                 {team.members.map((member,k) => {
                                         return(
-                                            <TeamCard label={team.label} name={member.name} designation={member.designation} image={member.img} key={`${member.name}-${k}`}/>
+                                            <TeamCard label={team.label} name={member.name} designation={member.designation} whatsapp={member.whatsapp} image={member.img} key={`${member.name}-${k}`}/>
                                         )
                                 })}
                             </div>
