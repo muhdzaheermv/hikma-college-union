@@ -5,14 +5,14 @@ import ProshowCard from './proshowCard'
 const artists = [
     {
         name: 'SPORTS DAY 3',
-        date: 'Nov',    
+        date: '16 Dec',    
         img: 'images/throwball.png',
         // div_id: 'jubin',
         link: '/sports'
     },
     {
         name: 'SPORTS DAY 2',
-        date: 'Oct',
+        date: '15 Dec',
         img: 'images/volleyball.png',
         // div_id: 'neetimohan',
         link: '/sports'
