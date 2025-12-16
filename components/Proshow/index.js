@@ -15,14 +15,14 @@ const artists = [
         date: 'Nov',
         img: 'images/sports_meet.png',
         // div_id: 'jubin',
-        link: '/programs'
+        link: '/events'
     },
     {
         name: 'Coming soon',
         date: 'Jan',
         img: 'images/hikma_arts.png',
         // div_id: 'amittrivedi',
-        link: '/programs'
+        link: '/events'
     }
 ]
 
