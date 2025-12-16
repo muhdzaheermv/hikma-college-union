@@ -6,14 +6,14 @@ const artists = [
     {
         name: 'SPORTS DAY 3',
         date: 'Nov',    
-        img: 'images/throwball.PNG',
+        img: 'images/throwball.png',
         // div_id: 'jubin',
         link: '/sports'
     },
     {
         name: 'SPORTS DAY 2',
         date: 'Oct',
-         img: 'images/volleyball.PNG',
+        img: 'images/volleyball.png',
         // div_id: 'neetimohan',
         link: '/sports'
     },
