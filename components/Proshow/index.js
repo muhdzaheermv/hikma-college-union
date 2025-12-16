@@ -31,7 +31,7 @@ function Proshow(){
         <div className={`${styles.container} proshow-section` }>
             <div className={styles.marquee}>
                 <ul className={styles['marquee-content']}>
-                    <li className={styles.stroke}>Sargodhaya</li>
+                    <li className={styles.stroke}>Hikma</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -39,12 +39,12 @@ function Proshow(){
                         alt={'Proshow'}
                         />
                     </li>
-                    <li ><b>സർഗോദയ</b></li>
-                    <li >Sargodhaya</li>
+                    <li ><b>ഹിക്മ</b></li>
+                    <li >Hikma</li>
                 </ul>
 
                 <ul className={`${styles['marquee-content']} marquee-proshow`} aria-hidden="true">
-                    <li className={styles.stroke}>Sargodhaya</li>
+                    <li className={styles.stroke}>Hikma</li>
                     <li><Image 
                         src={'/images/assets/union.svg'}
                         width={100}
@@ -52,8 +52,8 @@ function Proshow(){
                         height={100}
                         />
                     </li>
-                    <li>സർഗോദയ</li>
-                    <li>Sargodhaya</li>
+                    <li>ഹിക്മ</li>
+                    <li>Hikma</li>
                 </ul>
             </div>
             <div className={styles.marquee}>
