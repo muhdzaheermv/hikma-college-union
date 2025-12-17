@@ -7,7 +7,7 @@ const artists = [
         name: 'ASPIRO Sports Meet 25 – Day 3 Throwball',
         date: '17 December 2025',
         day: 'Tuesday',
-        img: '/images/sports_meetday3.JPEG',
+        img: '/images/sports_meetday3.jpeg',
         // id: "dabzee",
         content: 'Day 3 of Aspiro Sports Meet 25 brings high-energy Throwball action! Watch teams battle it out with skill and teamwork on 17 December at 2:00 PM'
     },
@@ -15,7 +15,7 @@ const artists = [
         name: 'ASPIRO Sports Meet 25 – Day 2 Volleyball',
         date: '16 December 2025',
         day: 'Tuesday',
-        img: '/images/sports_meet.PNG',
+        img: '/images/sports_meet.png',
         // id: "dabzee",
         content: 'Feel the thrill at ASPIRO Sports Meet 25! Day 2 brings an action-packed Volleyball Tournament on 16 Dec, 2:00 PM at Aspire College Court. Elevate the game and honor the spirit of sport!'
     },
